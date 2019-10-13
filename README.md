@@ -8,3 +8,5 @@
  # My motto
  ![Motto](index.jpeg)
  
+ ![Motto](as.jpeg)
+ 
